@@ -3,14 +3,14 @@
 <suite thread-count="2" name="Test suite" parallel="classes">
     <test name="test 1">
         <classes>
-            <class name="org.example.tests.AdditionTest"/>
-            <class name="org.example.tests.SubtractionTest"/>
+            <class name="org.homework.tests.AdditionTest"/>
+            <class name="org.homework.tests.SubtractionTest"/>
         </classes>
     </test>
     <test name="test 2">
         <classes>
-            <class name="org.example.tests.MultiplicationTest"/>
-            <class name="org.example.tests.DivisionTest"/>
+            <class name="org.homework.tests.MultiplicationTest"/>
+            <class name="org.homework.tests.DivisionTest"/>
         </classes>
     </test>
 </suite>
