@@ -1,6 +1,6 @@
-package org.example;
+package org.homework;
 
-import org.example.tests.BaseCalculatorTestClass;
+import org.homework.tests.BaseCalculatorTestClass;
 
 public class CalculatorClass extends BaseCalculatorTestClass {
     public static void main(String[] args) {

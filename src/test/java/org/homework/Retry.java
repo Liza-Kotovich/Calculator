@@ -1,4 +1,4 @@
-package org.example;
+package org.homework;
 
 import org.testng.IRetryAnalyzer;
 import org.testng.ITestResult;

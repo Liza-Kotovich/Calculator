@@ -1,9 +1,8 @@
-package org.example.tests;
+package org.homework.tests;
 
-import org.example.CalculatorClass;
-import org.example.DataProviders;
-import org.example.Retry;
-import org.example.tests.BaseCalculatorTestClass;
+import org.homework.CalculatorClass;
+import org.homework.DataProviders;
+import org.homework.Retry;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 

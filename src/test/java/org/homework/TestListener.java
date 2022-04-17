@@ -1,4 +1,4 @@
-package org.example;
+package org.homework;
 
 import org.testng.ITestContext;
 import org.testng.ITestListener;
